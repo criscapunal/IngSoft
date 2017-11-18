@@ -1,0 +1,124 @@
+#header {
+    background-color: #13124f;
+    color: white;
+    padding: 20px;
+}
+
+#body {
+    margin-top: 30px;
+    padding: 20px;
+}
+.botton {
+    background-color: #F61067;
+    color: white;
+    border: none;
+    height: 35px;
+}
+
+.botton1 {
+    background-color: #F61067;
+    color: white;
+    border: none;
+    display: block;
+    width: 100%;
+    height: 35px;
+    margin-bottom: 20px;
+
+}
+
+.botton2 {
+    background-color: #F61067;
+    color: white;
+    border: none;
+    display: block;
+    width: 100%;
+    height: 35px;
+
+
+}
+
+.botton3 {
+    background-color: #F61067;
+    color: white;
+    border: none;
+    height: 35px;
+    width: 49%;
+}
+
+.botton4 {
+    background-color: white;
+    color: #2AD392;
+    height: 35px;
+    width: 49%;
+    border: 2px solid;
+}
+
+#seccion1 {
+    background-color: #9090A5;
+    height: 50px;
+    color: white;
+    padding: 15px;
+}
+
+#seccion {
+    background-color: #13124f;
+    color: white;
+    padding: 15px;
+}
+
+#seccion2 {
+    background-color: #352BA5;
+    color: white;
+    text-align: center;
+    text-decoration: underline;
+}
+
+#entrada {
+    display: block;
+    width: 100%;
+    height: 30px;
+    background-color: #1B1B6C;
+    border-width: 2px 0;
+    border-color: #9090A5;
+    padding: 10px;
+    color: #9090A5;
+}
+
+.recuadro {
+    border: 1px solid;
+    border-color: #9090A5;
+    margin-top: 20px;
+    padding: 10px;
+}
+
+progress {
+    -webkit-appearance: none;
+    display: block;
+    width: 100%;
+}
+  
+::-webkit-progress-value {
+    background-color: #F61067;
+}
+
+::-webkit-progress-bar {
+    background-color: #2AD392;
+}
+
+#titulo {
+    padding: 0px 0px 20px 0px;
+    border-bottom: 2px solid;
+    border-color: #9090A5;
+}
+
+#correo {
+    position: relative;
+    top: 5px;
+}
+
+#numero {
+    position: relative;
+    top: 5px;
+    color: #352BA5;
+
+}
